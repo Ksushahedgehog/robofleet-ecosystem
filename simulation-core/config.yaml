@@ -1,0 +1,3 @@
+﻿grid_size: 200
+agents_count: 1000
+target_fps: 30
