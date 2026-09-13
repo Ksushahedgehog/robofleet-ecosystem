@@ -1,0 +1,3 @@
+﻿fleet_size: 50
+patrol_interval_min: 30
+telemetry_rate_hz: 2
